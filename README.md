@@ -10,7 +10,7 @@
 
 1. Type `yarn` to install necessary dependencies.
 2. Type `yarn build` to compile your code.
-3. Type `yarn run` to run your code and see the result on terminal.
+3. Type `yarn start` to run your code and see the result on terminal.
 
 ## Todo:
 
