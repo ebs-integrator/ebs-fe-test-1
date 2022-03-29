@@ -8,9 +8,10 @@
 
 ## Getting started:
 
-1. Type `yarn` to install necessary dependencies.
-2. Type `yarn build` to compile your code.
-3. Type `yarn start` to run your code and see the result on terminal.
+1. Clone the repository
+2. Run `yarn` to install necessary dependencies.
+3. Run `yarn build` to compile your code.
+4. Run `yarn start` to run your code and see the result on terminal.
 
 ## Todo:
 
